@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbaafcb962779104ea709a48f838772f
+timeCreated: 1459264918
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HighlightSprite: {fileID: 21300000, guid: b769cab5e4c9cff45a11609cc2545eb2, type: 3}
+  - RegularSprite: {fileID: 21300000, guid: 8a6fd3ae1d89398428990e8b2efe981f, type: 3}
+  - wc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
